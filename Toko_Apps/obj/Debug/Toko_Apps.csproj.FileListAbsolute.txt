@@ -34,10 +34,13 @@ C:\Users\Dokter Komputer\Videos\Materi_XI_2025\Toko_Apps\bin\Debug\System.Numeri
 C:\Users\Dokter Komputer\Videos\Materi_XI_2025\Toko_Apps\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Dokter Komputer\Videos\Materi_XI_2025\Toko_Apps\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Dokter Komputer\Videos\Materi_XI_2025\Toko_Apps\obj\Debug\Toko_Apps.csproj.AssemblyReference.cache
-C:\Users\Dokter Komputer\Videos\Materi_XI_2025\Toko_Apps\obj\Debug\Toko_Apps.Form1.resources
 C:\Users\Dokter Komputer\Videos\Materi_XI_2025\Toko_Apps\obj\Debug\Toko_Apps.Properties.Resources.resources
 C:\Users\Dokter Komputer\Videos\Materi_XI_2025\Toko_Apps\obj\Debug\Toko_Apps.csproj.GenerateResource.cache
 C:\Users\Dokter Komputer\Videos\Materi_XI_2025\Toko_Apps\obj\Debug\Toko_Apps.csproj.CoreCompileInputs.cache
 C:\Users\Dokter Komputer\Videos\Materi_XI_2025\Toko_Apps\obj\Debug\Toko_Apps.csproj.Up2Date
 C:\Users\Dokter Komputer\Videos\Materi_XI_2025\Toko_Apps\obj\Debug\Toko_Apps.exe
 C:\Users\Dokter Komputer\Videos\Materi_XI_2025\Toko_Apps\obj\Debug\Toko_Apps.pdb
+C:\Users\Dokter Komputer\Videos\Materi_XI_2025\Toko_Apps\obj\Debug\Toko_Apps.Login.resources
+C:\Users\Dokter Komputer\Videos\Materi_XI_2025\Toko_Apps\obj\Debug\Toko_Apps.Beranda.resources
+C:\Users\Dokter Komputer\Videos\Materi_XI_2025\Toko_Apps\obj\Debug\Toko_Apps.BookForm.resources
+C:\Users\Dokter Komputer\Videos\Materi_XI_2025\Toko_Apps\obj\Debug\Toko_Apps.Buku.resources

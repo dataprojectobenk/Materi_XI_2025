@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38FCE4C3-124D-407F-9B5A-86D98E209FA6}|Toko_Apps.csproj|C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38FCE4C3-124D-407F-9B5A-86D98E209FA6}|Toko_Apps.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38FCE4C3-124D-407F-9B5A-86D98E209FA6}|Toko_Apps.csproj|C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\buku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FCE4C3-124D-407F-9B5A-86D98E209FA6}|Toko_Apps.csproj|solutionrelative:buku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38FCE4C3-124D-407F-9B5A-86D98E209FA6}|Toko_Apps.csproj|c:\\users\\dokter komputer\\videos\\materi_xi_2025\\toko_apps\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{38FCE4C3-124D-407F-9B5A-86D98E209FA6}|Toko_Apps.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{38FCE4C3-124D-407F-9B5A-86D98E209FA6}|Toko_Apps.csproj|c:\\users\\dokter komputer\\videos\\materi_xi_2025\\toko_apps\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FCE4C3-124D-407F-9B5A-86D98E209FA6}|Toko_Apps.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FCE4C3-124D-407F-9B5A-86D98E209FA6}|Toko_Apps.csproj|C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\buku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38FCE4C3-124D-407F-9B5A-86D98E209FA6}|Toko_Apps.csproj|solutionrelative:buku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FCE4C3-124D-407F-9B5A-86D98E209FA6}|Toko_Apps.csproj|c:\\users\\dokter komputer\\videos\\materi_xi_2025\\toko_apps\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FCE4C3-124D-407F-9B5A-86D98E209FA6}|Toko_Apps.csproj|solutionrelative:bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FCE4C3-124D-407F-9B5A-86D98E209FA6}|Toko_Apps.csproj|C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38FCE4C3-124D-407F-9B5A-86D98E209FA6}|Toko_Apps.csproj|solutionrelative:bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAA5wEgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA9wCEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T15:37:45.448Z",
+              "WhenOpened": "2025-01-29T08:08:59.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Buku.cs",
+              "DocumentMoniker": "C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\Buku.cs",
+              "RelativeDocumentMoniker": "Buku.cs",
+              "ToolTip": "C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\Buku.cs*",
+              "RelativeToolTip": "Buku.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T15:04:29.5Z",
+              "WhenOpened": "2025-01-28T23:21:03.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Buku.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\Buku.cs",
+              "RelativeDocumentMoniker": "Buku.cs",
+              "ToolTip": "C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\Buku.cs [Design]*",
+              "RelativeToolTip": "Buku.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T23:20:31.965Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\BookForm.cs",
+              "RelativeDocumentMoniker": "BookForm.cs",
+              "ToolTip": "C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\BookForm.cs",
+              "RelativeToolTip": "BookForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:51:40.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\BookForm.cs",
+              "RelativeDocumentMoniker": "BookForm.cs",
+              "ToolTip": "C:\\Users\\Dokter Komputer\\Videos\\Materi_XI_2025\\Toko_Apps\\BookForm.cs [Design]",
+              "RelativeToolTip": "BookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:51:36.118Z",
               "EditorCaption": " [Design]"
             }
           ]

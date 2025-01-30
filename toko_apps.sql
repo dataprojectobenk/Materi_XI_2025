@@ -8,6 +8,9 @@ CREATE Table users(
     role enum('admin','kasir')
 );
 
+INSERT INTO users(username,password,role) VALUES
+('obenk','12345','admin'),
+('kasir','12345','kasir');
 CREATE Table books(
     id_buku INT AUTO_INCREMENT PRIMARY KEY,
     kode_buku VARCHAR(255),
