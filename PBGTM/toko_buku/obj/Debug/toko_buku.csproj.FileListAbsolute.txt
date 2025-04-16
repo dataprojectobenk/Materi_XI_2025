@@ -1,0 +1,10 @@
+C:\Users\Dokter Komputer\Desktop\materi_xi\pbgtm\toko_buku\bin\Debug\toko_buku.exe.config
+C:\Users\Dokter Komputer\Desktop\materi_xi\pbgtm\toko_buku\bin\Debug\toko_buku.exe
+C:\Users\Dokter Komputer\Desktop\materi_xi\pbgtm\toko_buku\bin\Debug\toko_buku.pdb
+C:\Users\Dokter Komputer\Desktop\materi_xi\pbgtm\toko_buku\obj\Debug\toko_buku.csproj.AssemblyReference.cache
+C:\Users\Dokter Komputer\Desktop\materi_xi\pbgtm\toko_buku\obj\Debug\toko_buku.Form1.resources
+C:\Users\Dokter Komputer\Desktop\materi_xi\pbgtm\toko_buku\obj\Debug\toko_buku.Properties.Resources.resources
+C:\Users\Dokter Komputer\Desktop\materi_xi\pbgtm\toko_buku\obj\Debug\toko_buku.csproj.GenerateResource.cache
+C:\Users\Dokter Komputer\Desktop\materi_xi\pbgtm\toko_buku\obj\Debug\toko_buku.csproj.CoreCompileInputs.cache
+C:\Users\Dokter Komputer\Desktop\materi_xi\pbgtm\toko_buku\obj\Debug\toko_buku.exe
+C:\Users\Dokter Komputer\Desktop\materi_xi\pbgtm\toko_buku\obj\Debug\toko_buku.pdb
